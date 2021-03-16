@@ -1,0 +1,10 @@
+traindata/img/org_1.png
+traindata/img/org_6.png
+traindata/img/org_0.png
+traindata/img/org_4.png
+traindata/img/org_2.png
+traindata/img/org_9.png
+traindata/img/org_8.png
+traindata/img/org_5.png
+traindata/img/org_7.png
+traindata/img/org_3.png
